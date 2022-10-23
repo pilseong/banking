@@ -1,0 +1,15 @@
+###
+GET http://localhost:8000/customers
+# Content-Type: application/xml
+
+###
+GET http://localhost:8000/customers/2001
+# Content-Type: application/xml
+
+
+
+###
+POST http://localhost:8000/customers
+# Content-Type: application/xml
+
+###
